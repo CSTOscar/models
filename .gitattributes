@@ -1,0 +1,13 @@
+./research/gan/image_compression/testdata/train-00000-of-00128 filter=lfs diff=lfs merge=lfs -text
+./research/gan/image_compression/testdata/validation-00000-of-00128 filter=lfs diff=lfs merge=lfs -text
+./research/gan/mnist/data/classify_mnist_graph_def.pb filter=lfs diff=lfs merge=lfs -text
+./research/gan/mnist/data/infogan_model.ckpt filter=lfs diff=lfs merge=lfs -text
+./research/object_detection/test_ckpt/ssd_inception_v2.pb filter=lfs diff=lfs merge=lfs -text
+./research/syntaxnet/dragnn/core/testdata/simple-tagger.repository filter=lfs diff=lfs merge=lfs -text
+./research/syntaxnet/dragnn/python/perf_test_data/params filter=lfs diff=lfs merge=lfs -text
+./research/syntaxnet/dragnn/python/testdata/ud-hungarian.params filter=lfs diff=lfs merge=lfs -text
+./research/syntaxnet/examples/dragnn/data/en/checkpoint filter=lfs diff=lfs merge=lfs -text
+./research/syntaxnet/examples/dragnn/data/es/es-universal-train.conll filter=lfs diff=lfs merge=lfs -text
+./research/syntaxnet/syntaxnet/models/parsey_mcparseface/parser-params filter=lfs diff=lfs merge=lfs -text
+./research/syntaxnet/syntaxnet/models/parsey_mcparseface/tagger-params filter=lfs diff=lfs merge=lfs -text
+./research/tcn/g3doc/im.gif filter=lfs diff=lfs merge=lfs -text
